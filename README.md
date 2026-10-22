@@ -34,9 +34,9 @@ CREATE TABLE Interns (
 );
 
 INSERT INTO Interns (Name, Role, Email) VALUES
-('Ali Khan', 'Cloud Intern', 'ali@example.com'),
-('Sara Ahmed', 'Database Intern', 'sara@example.com'),
-('Ahmed Raza', 'DevOps Intern', 'ahmed@example.com');
+('Ali Khan', 'Cloud Intern', 'ali@gmail.com'),
+('Sara Ahmed', 'Database Intern', 'sara@gmail.com'),
+('Ahmed Raza', 'DevOps Intern', 'ahmed@gmail.com');
 
 SELECT * FROM Interns;
 ```
